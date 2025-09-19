@@ -8,7 +8,7 @@
 **Класс 3**: в роллауте образуются хаотические области с псевдослучайными узорами.
 **Класс 4**: эволюция проявляет наиболее сложное поведение, балансируя между порядком и хаосом, например, rule 54, rule 137 и rule 110. Последнее правило представляет особый интерес...
 
-Подробнее это все описано в [Alen Downey – Think Complexity](https://github.com/AllenDowney/ThinkComplexity2?tab=readme-ov-file) и [Stephen Wolfram – New Kind of Science](https://www.wolframscience.com/nks/). Интересная статья (https://habr.com/ru/articles/273393/) на хабре.
+Подробнее это все описано в [Alen Downey – Think Complexity](https://github.com/AllenDowney/ThinkComplexity2?tab=readme-ov-file) и [Stephen Wolfram – New Kind of Science](https://www.wolframscience.com/nks/). Интересная [статья](https://habr.com/ru/articles/273393/) на хабре.
 
 Операции реализованы с использованием битовых операций. Если это смущает, то можно воспользоваться файлом попроще `Elementary_Cellular_Automaton_Alt.ipynb`, но производительность будет существенно ниже.
 
