@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Turing Machines.md",
+                "file": "Source/Analysis/Atomic Notes/Ordered Field.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Turing Machines"
+              "title": "Ordered Field"
             }
           }
         ]
@@ -171,6 +171,19 @@
   },
   "active": "1b86bebe86df8372",
   "lastOpenFiles": [
+    "Computability (Obsidian Vault).rar",
+    "Source/Analysis/Completeness of Real Numbers.md",
+    "Source/Analysis/Subspace.md",
+    "Source/Analysis/Measure and Measure Space.md",
+    "Source/Analysis/Measurable Space and Sets.md",
+    "Source/Analysis/Measurable Function.md",
+    "Source/Analysis/Convolution 1D.md",
+    "Source/Geometric Progression.md",
+    "Source/Telescopic Sum.md",
+    "Source/Computer Science/Atomic Notes/Computably Enumerable Sets and Relations.md",
+    "Source/Trees.md",
+    "_Turing Machines.md",
+    "Source/Computer Science/Untitled.base",
     "Turing_Machine.ipynb",
     "Uncomputability.rar",
     "Source/Computer Science/Atomic Notes/Classic Model of Turing Machine.md",
@@ -178,8 +191,6 @@
     "03 Mathematics/Computer Science/Atomic Notes",
     "03 Mathematics/Computer Science",
     "03 Mathematics",
-    "_Turing Machines.md",
-    "Source/Geometric Progression.md",
     "Source/Тригонометрия.jpg",
     "Source"
   ]
