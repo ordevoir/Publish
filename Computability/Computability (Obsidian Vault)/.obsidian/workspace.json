@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source/Analysis/Atomic Notes/Ordered Field.md",
-                "mode": "source",
+                "file": "Recursive Functions Sets and Relations.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ordered Field"
+              "title": "Recursive Functions Sets and Relations"
             }
           }
         ]
@@ -169,20 +169,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "1b86bebe86df8372",
+  "active": "0dc814b37eb6b0d1",
   "lastOpenFiles": [
     "Computability (Obsidian Vault).rar",
+    "Turing Machines.md",
+    "Recursive Functions Sets and Relations.md",
+    "Computability.md",
+    "Source/Geometric Progression.md",
+    "Source/Analysis/Atomic Notes/Ordered Field.md",
     "Source/Analysis/Completeness of Real Numbers.md",
     "Source/Analysis/Subspace.md",
     "Source/Analysis/Measure and Measure Space.md",
     "Source/Analysis/Measurable Space and Sets.md",
     "Source/Analysis/Measurable Function.md",
     "Source/Analysis/Convolution 1D.md",
-    "Source/Geometric Progression.md",
     "Source/Telescopic Sum.md",
     "Source/Computer Science/Atomic Notes/Computably Enumerable Sets and Relations.md",
     "Source/Trees.md",
-    "_Turing Machines.md",
     "Source/Computer Science/Untitled.base",
     "Turing_Machine.ipynb",
     "Uncomputability.rar",
