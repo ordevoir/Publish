@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursive Functions Sets and Relations.md",
+                "file": "Computability.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recursive Functions Sets and Relations"
+              "title": "Computability"
             }
           }
         ]
@@ -171,9 +171,9 @@
   },
   "active": "0dc814b37eb6b0d1",
   "lastOpenFiles": [
+    "Recursive Functions Sets and Relations.md",
     "Computability (Obsidian Vault).rar",
     "Turing Machines.md",
-    "Recursive Functions Sets and Relations.md",
     "Computability.md",
     "Source/Geometric Progression.md",
     "Source/Analysis/Atomic Notes/Ordered Field.md",
