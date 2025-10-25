@@ -1,0 +1,17 @@
+{
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "abstract",
+    "callouts",
+    "hide-embed-title",
+    "S - Callouts",
+    "S - Images Adjustments",
+    "embeded-markdown",
+    "tables"
+  ],
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "cssTheme": "Typewriter",
+  "textFontFamily": "Arial",
+  "showRibbon": true
+}
